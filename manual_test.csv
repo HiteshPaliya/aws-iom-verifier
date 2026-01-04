@@ -1,0 +1,2 @@
+Resource ID,Rule Name,Region,Findings
+test-resource,API Gateway method does not require authorization or api key,us-east-1,some finding

@@ -1,0 +1,43 @@
+S3 bucket policy with global write, read, or delete permissions
+NLB/ALB global access configured to one or more administrative ports.
+NLB/ALB global access configured to one or more administrative ports
+EMR cluster security group allows all traffic on port 8088
+API Gateway method does not require authorization or api key
+MSK Cluster configured for public accessibility
+MSK Cluster should not be publicly accessible
+S3 bucket with Sensitive Data configured for public access
+AWS OpenSearch Domain policy is overly permissive
+OpenSearch Domain policy should not be overly permissive
+EKS cluster with open VPC CIDR range for public access
+NLB/ALB configured as publicly accessible on non-web ports.
+NLB/ALB configured as publicly accessible on non-web ports
+SageMaker Domain not configured for VPC Only Traffic
+S3 bucket policy allows public access to CloudTrail logs
+ELB global access configured to one or more administrative ports
+S3 bucket configured for public access
+Lambda function is configured to be publicly exposed
+Lambda Function is Configured to be publicly accessible
+EKS cluster VPC endpoint access is publicly enabled
+AWS EventBridge EventBus exposed to the public
+S3 bucket with Sensitive Data configured for any authenticated user access
+SageMaker Notebook instance configured with Direct Internet Access
+AWS OpenSearch Domain allows anonymous access
+OpenSearch Domain should not allow anonymous access
+S3 bucket with Block Public Access setting disabled
+EKS Cluster endpoint access should not allow all IP addresses
+ELB configured as publicly accessible on non-web ports.
+ELB configured as publicly accessible on non-web ports
+ECR repository is configured to be publicly exposed
+NLB configured with listener over high-risk ports with target groups over ports.
+NLB configured with listener over high-risk ports with target groups over ports
+S3 Bucket ACL allows READ access to ANY authenticated user
+API Gateway is accessible through public API endpoints
+S3 bucket policy allows public write access
+S3 bucket configured for any authenticated user access
+SageMaker Notebook instance is not placed in vpc
+SageMaker Notebook instance not placed in vpc
+MQ Broker is publicly accessible
+AWS Network Firewall without stateless rule group
+Network Firewall without stateless rule group
+EKS node(s) are publicly accessible via inbound security group rule
+S3 bucket policy allows public read access

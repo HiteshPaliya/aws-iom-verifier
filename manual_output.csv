@@ -1,0 +1,2 @@
+Resource ID,Rule Name,Region,Findings,Verify_Execution,Verify_Exploit,Verify_Result
+test-resource,API Gateway method does not require authorization or api key,us-east-1,some finding,Skipped,Manual Check Required,Manual Check Required
