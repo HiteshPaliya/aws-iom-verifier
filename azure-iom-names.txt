@@ -1,0 +1,81 @@
+Firewall instance TCP or UDP port 3389 is open to the public
+Firewall instance TCP/UDP port 3389 is open to the public
+Network Security Group rule allows ingress traffic from any source on high risk ports
+Firewall instance TCP port 2375 or 2376 is open to the public
+Firewall instance UDP port 137 or 138 is open to the public
+Storage Account container storing activity logs is publicly accessible
+Network Security Group rule allows HTTP(S) access from any source
+Firewall instance TCP port 1433 or UDP port 1434 is open to the public
+SQL server configured with firewall rule to allow access from all networks
+Firewall instance TCP or UDP port 53 is open to the public
+Firewall instance UDP or TCP port 445 is open to the public
+Firewall instance UDP/TCP port 445 is open to the public
+Azure App Service web apps configured with public network access
+Azure App Service web application with public network access
+Azure Logic app configured as publicly accessible
+Firewall instance TCP port 135 is open to the public
+Virtual Machine allows public internet access via non-web ports while running
+Virtual Machine allows public internet access to non-web ports while running
+Firewall instance allow all source IPs to all destination IPs
+Cosmos DB allows traffic from public Azure datacenters
+Firewall instance TCP port 50070 and 50470 is open to the public
+Network Security Group rule allows ingress traffic from any source on port not commonly used
+Azure OpenAI service has public network access enabled
+OpenAI service public network access is enabled
+Firewall instance TCP port 4333 or 3306 is open to the public
+Firewall instance TCP port 5500 is open to the public
+Network Security Group rule allows SSH access from any source
+Network Security Group rule allows UDP access from any source
+Load Balancer rule allow high risk port
+Load Balancer rule allows inbound traffic from the internet on high risk ports
+Firewall instance TCP port 5900 is open to the public
+Network Security Group rule allows ingress traffic from any source on any protocol
+Firewall instance TCP port 23 is open to the public
+Firewall instance TCP port 20 or 21 is open to the public
+PostgreSQL Flexible Server allows access from all IPv4
+Firewall instance TCP port 22 is open to the public
+Firewall instance publicly configured allows global public IP in ingress rule(s) on non-web ports
+PostgreSQL Flexible Server allowing public network access
+PostgreSQL flex server public network access allowed
+Azure Container Apps environment configured with public access
+MySQL Flexible Server has public network access enabled
+MySQL database flexible server public network access is enabled
+Cosmos DB account does not have private endpoint connections configured
+CosmosDB does not have private endpoint connections configured
+PostgreSQL Flexible Server allowing public access from ANY Azure service
+Virtual Machine allows public internet access via SSH on port 22 while running
+Virtual Machine allows public internet access to SSH port 22 while running
+Firewall instance TCP port 1522 is open to the public
+Azure Disk configured with PUBLIC network access enabled
+Azure Disk public network access is enabled
+Virtual Machine allows inbound traffic from the internet on a high risk port
+Virtual Machine allows inbound from any source in security group rules
+Network Security Group rule overly permissive to inbound traffic over any protocol and port
+Network Security Group rule overly permissive to inbound traffic over any protocol
+AKS authorized IP range is not configured.
+AKS authorized IP range is not configured
+Azure OpenAI service public network access should be restricted
+OpenAI service public network access should be restricted
+Virtual Machine allows inbound from internet on any port from any source
+Azure Machine Learning workspace configured with overly permissive network access
+Azure Machine Learning workspace with overly permissive network
+Network Security Group rule allows ingress traffic from any source on all ports
+Firewall instance TCP port 5601 is open to the public
+Cosmos DB account is configured with public access from all networks
+CosmosDB is configured with public access from all networks
+Virtual Machine allows public internet access via RDP on port 3389 while running
+Virtual Machine allows public internet access to RDP port 3389 while running
+Firewall instance TCP port 9200 is open to the public
+Firewall instance TCP port 8020 is open to the public
+Firewall instance TCP port 1521 is open to the public
+Virtual Machine allows public internet access to Docker (port 2375/2376)
+Virtual Machine allows inbound from any source on any protocol
+Firewall instance TCP port 5432 is open to the public
+Firewall instance TCP ports 4505 or 4506 are open to the public
+Network Security Group rule allows RDP access from any source
+Cosmos DB Account allows public network access without firewall rules
+CosmosDB account with public access has no firewall rules
+Firewall instance TCP port 25 is open to the public
+Azure Machine Learning compute instance configured with public IP
+Azure Machine Learning compute instance with public IP
+Storage Account blob container configured with public access

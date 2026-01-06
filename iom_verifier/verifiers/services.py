@@ -7,7 +7,8 @@ class ServicesVerifier(BaseVerifier):
         "AWS - ECR Repository is Publicly Accessible",
         "ECR repository is configured to be publicly exposed",
         "AWS - Lambda Function with Public Access", # Only if it has a function URL or we can guess it?
-        "Lambda function is configured to be publicly exposed"
+        "Lambda function is configured to be publicly exposed",
+        "Cloud Run Service is accessible by any users or any authenticated user"
     ]
 
     def verify(self, row: Dict[str, Any]) -> VerificationResult:

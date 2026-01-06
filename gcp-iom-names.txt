@@ -1,0 +1,19 @@
+BigQuery policy configured with 'allUsers' access
+GKE Cluster inbound firewall rule allows all traffic
+Cloud Run Service is accessible by any users or any authenticated user
+GKE Cluster has the User 'allAuthenticatedUsers' Added as a Container Admin or Cluster Admin
+GKE Cluster has the user allAuthenticatedUsers added as a container admin or cluster admin
+KMS Cryptokey configured with 'allAuthenticatedUsers' access
+KMS crypto key configured with 'allAuthenticatedUsers' access
+BigQuery policy configured with 'allAuthenticatedUsers' access
+KMS policy binding roles overly permissive
+Cloud Storage uniform bucket-level access is disabled
+Cloud Storage policy configured with 'allAuthenticatedUsers' access
+Cloud Storage policy configured with 'allUsers' access
+Compute Image configured with 'allAuthenticatedUsers' access
+Compute Engine instance configured with public IP
+KMS Cryptokey configured with 'allUsers' access
+KMS crypto key configured with 'allUsers' access
+Cloud SQL instance is open to public
+Cloud SQL PostgreSQL Instance IP assignment is not set to private
+Cloud SQL instance assigned public IP

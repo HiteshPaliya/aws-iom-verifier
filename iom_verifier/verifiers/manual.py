@@ -27,7 +27,19 @@ class ManualVerifier(BaseVerifier):
         "SageMaker Notebook instance is not placed in vpc",
         "SageMaker Notebook instance not placed in vpc",
         "AWS Network Firewall without stateless rule group",
-        "Network Firewall without stateless rule group"
+        "Network Firewall without stateless rule group",
+        # GCP - Manual
+        "BigQuery policy configured with 'allUsers' access",
+        "GKE Cluster has the User 'allAuthenticatedUsers' Added as a Container Admin or Cluster Admin",
+        "GKE Cluster has the user allAuthenticatedUsers added as a container admin or cluster admin",
+        "KMS Cryptokey configured with 'allAuthenticatedUsers' access",
+        "KMS crypto key configured with 'allAuthenticatedUsers' access",
+        "BigQuery policy configured with 'allAuthenticatedUsers' access",
+        "KMS policy binding roles overly permissive",
+        "Cloud Storage uniform bucket-level access is disabled",
+        "Compute Image configured with 'allAuthenticatedUsers' access",
+        "KMS Cryptokey configured with 'allUsers' access",
+        "KMS crypto key configured with 'allUsers' access"
     ]
 
     def verify(self, row: Dict[str, Any]) -> VerificationResult:

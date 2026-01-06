@@ -1,0 +1,4 @@
+Resource ID,Rule Name,Region,Findings
+//storage.googleapis.com/test-public-bucket,Cloud Storage policy configured with 'allUsers' access,us-central1,Public Access
+//compute.googleapis.com/projects/p/zones/z/instances/test-vm,Compute Engine instance configured with public IP,us-central1,Public IP: 8.8.8.8
+https://cloud-run-url.a.run.app,Cloud Run Service is accessible by any users or any authenticated user,us-central1,https://cloud-run-url.a.run.app

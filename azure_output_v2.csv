@@ -1,0 +1,3 @@
+Resource ID,Rule Name,Region,Findings,Verify_Execution,Verify_Exploit,Verify_Result
+/subscriptions/123/resourceGroups/rg/providers/Microsoft.Storage/storageAccounts/testacc/blobServices/default/containers/publiccontainer,Storage Account blob container configured with public access,eastus,Public Access,Executed,Unknown,Container not found (404). URL: https://testacc.blob.core.windows.net/publiccontainer?restype=container&comp=list
+/subscriptions/123/resourceGroups/rg/providers/Microsoft.Compute/virtualMachines/testvm,Firewall instance TCP port 22 is open to the public,eastus,Public IP: 8.8.8.8,Executed,Secure,Connection to 8.8.8.8:22 failed (Code: 10035). Port is CLOSED or FILTERED.
